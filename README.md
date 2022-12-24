@@ -10,5 +10,4 @@ The collection of presentations by students
 - Geophysics
 - Geophysical Journal International
 - SIAM Journal on Scientific Computing
-- Geophysical Research Letters
 - Journal of Geophysics Research - Solid Earth
